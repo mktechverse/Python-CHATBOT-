@@ -1,0 +1,18 @@
+
+{
+  "hello": ["Hello mates! Welcome back to MK TechVerse!"],
+
+  "how are you": ["Feeling techy today,I'm learning Python with you!"],
+
+  "your job": ["Intern at MK TechVerse... working for free 😜"],
+
+  "mktechverse": ["The fresh originated tech channel! Don't forget to LIKE, COMMENT, and SUBSCRIBE!"],
+
+  "tell me a joke": ["Python said: I love indentation ❤️"],
+
+  "teacher": ["Teachers are the real MVPs! No MK TechVerse without them!"],
+
+  "bye": ["Bye! Don’t miss the next episode!"],
+
+  "default": ["Hmm... I haven't been trained on that yet 😅","I'm thinking too... 🤔","Tell me more so I can answer better!"]
+}
